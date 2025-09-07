@@ -1,0 +1,22 @@
+======================================aff_a.txt=========================================
+Assignment name  : aff_f
+Expected files   : aff_f.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Write a program that takes a string, and displays the first 'f' character it
+encounters in it, followed by a newline. If there are no 'f' characters in the
+string, the program just writes 'f' followed by a newline. If the number of parameters is not
+1, the program displays 'f' followed by a newline.
+
+Example:
+
+$> ./aff_f "abf" | cat -e
+f$
+$> ./aff_f "dubO f POIL" | cat -e
+f$
+$> ./aff_f "zz sent le poney" | cat -e
+f$
+$> ./aff_f | cat -e
+f$
+==========================================================================================
