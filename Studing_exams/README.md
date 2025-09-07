@@ -1,44 +1,44 @@
 # 42 Piscine Exams Practice
 
-Este repositório é dedicado ao **estudo e prática** dos exercícios realizados durante a **Piscine** no 42. Aqui você encontrará a resolução de diversos exercícios e projetos que foram realizados para solidificar o conhecimento adquirido durante o curso.
+This repository is dedicated to the **study and practice** of exercises completed during the **Piscine** at 42. Here, you will find solutions to various exercises and projects that were undertaken to solidify the knowledge acquired throughout the course.
 
-## Objetivo
+## Objective
 
-O objetivo deste repositório é consolidar tudo o que aprendi durante a **Piscine** e fornecer um recurso útil tanto para novos como para antigos **pisciners**. Ao longo do repositório, você encontrará uma variedade de **exercícios e soluções**, bem como algumas dicas e truques que podem ajudar no seu aprendizado.
+The goal of this repository is to consolidate everything I've learned during the **Piscine** and provide a useful resource for both new and returning **pisciners**. Throughout the repository, you will find a variety of **exercises and solutions**, as well as some tips and tricks that may help with your learning.
 
-## Estrutura do Repositório
+## Repository Structure
 
-Este repositório está organizado da seguinte forma:
+This repository is organized as follows:
 
-### Atenção
+### Attention
 
-Embora os exercícios neste repositório não sejam **exatamente** os mesmos que você encontrará nos exames de 42, eles foram **baseados em problemas similares**. A ideia é proporcionar uma prática relevante para que você tenha uma noção dos desafios que enfrentará nos exames, além de ajudar a consolidar o conhecimento adquirido.
+Although the exercises in this repository are **not exactly** the same as the ones you will encounter in the 42 exams, they are **based on similar problems**. The idea is to provide relevant practice so that you get a sense of the challenges you will face in the exams, while also helping to consolidate the knowledge you've gained.
 
-### Como Navegar no Repositório
+### How to Navigate the Repository
 
-1. **Escolha o exercício**: Cada diretório dentro da pasta `Studing_exams` corresponde a um certo de exercício.
-2. **Consulte a solução**: Dentro de cada diretório, você encontrará a solução para o exercício, com detalhes sobre como eu abordei o problema e a implementação.
-3. **Pratique**: Sinta-se à vontade para tentar resolver os exercícios por conta própria, revisando as soluções quando necessário.
+1. **Choose an exercise**: Each directory within the `Studing_exams` folder corresponds to a set of exercises.
+2. **Check the solution**: Inside each directory, you will find the solution to the exercise, along with details on how I approached the problem and the implementation.
+3. **Practice**: Feel free to try solving the exercises on your own, reviewing the solutions when necessary.
 
-## Dicas de Estudo
+## Study Tips
 
-Durante a **Piscine**, é importante manter o foco no aprendizado. Aqui estão algumas dicas que ajudaram na minha jornada:
+During the **Piscine**, it’s important to stay focused on learning. Here are some tips that helped me during my journey:
 
-- **Não tenha medo de errar**: Erros fazem parte do aprendizado. Resolva problemas por conta própria e, se necessário, revise a solução.
-- **Não se prenda à perfeição**: O objetivo é entender o conceito, não escrever código perfeito logo de cara.
-- **Use ferramentas de depuração**: Ferramentas como **gdb**, **valgrind** e **VS Code Debugger** são extremamente úteis para entender erros e melhorar o seu código.
-- **Estude com colegas**: Trocar ideias e discutir soluções com outros pisciners é uma ótima maneira de aprender mais rápido.
+- **Don’t be afraid to make mistakes**: Mistakes are part of the learning process. Solve problems on your own and, if needed, review the solution.
+- **Don’t focus on perfection**: The goal is to understand the concept, not to write perfect code right away.
+- **Use debugging tools**: Tools like **gdb**, **valgrind**, and the **VS Code Debugger** are extremely helpful for understanding errors and improving your code.
+- **Study with peers**: Sharing ideas and discussing solutions with other pisciners is a great way to learn faster.
 
-## Como Contribuir
+## How to Contribute
 
-Se você encontrou algum erro ou tem sugestões de melhoria, sinta-se à vontade para abrir um **issue** ou enviar um **pull request**. Estou sempre aberto a sugestões e melhorias!
+If you found any errors or have suggestions for improvement, feel free to open an **issue** or submit a **pull request**. I’m always open to suggestions and improvements!
 
-## Licença
+## License
 
-Este repositório é de uso pessoal e para fins educacionais, seguindo os princípios do 42. Consulte as licenças do 42 para mais informações.
+This repository is for personal use and educational purposes, following the principles of 42. Please refer to the 42 licenses for more information.
 
 ---
 
-### Agradecimentos
+### Acknowledgments
 
-Agradeço aos meus colegas da **Piscine** por todo o apoio e aprendizado compartilhado. Vamos continuar nadando! 🏊‍♂️
+I would like to thank my **Piscine** peers for all the support and shared learning. Let’s keep swimming! 🏊‍♂️
