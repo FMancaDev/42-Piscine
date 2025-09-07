@@ -5,3 +5,6 @@ Although the exercises in this repository are **not exactly** the same as the on
 ## Objective
 
 The goal of this repository is to keep track of the exercises I completed during the exam and the grades I received. These exercises were based on key topics covered during the **Piscine**, and they provide a solid foundation for more advanced work.
+
+## Exam00 Note
+![note examm00](Img/exam00.png)
