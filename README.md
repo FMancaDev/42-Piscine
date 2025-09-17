@@ -1,5 +1,10 @@
 # 42 Piscine
 
+![Language: C](https://img.shields.io/badge/language-C-blue.svg) 
+![License: MIT](https://img.shields.io/badge/license-MIT-green.svg) 
+![Status: Active](https://img.shields.io/badge/status-active-brightgreen.svg) 
+![Contributions: Welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+
 This repository is dedicated to consolidating everything I’ve learned during my Piscine journey at 42. It’s also meant to be a helpful resource for both new and returning Pisciners who are embarking on this unique and intense learning experience.
 
 ## Navigating the Piscine 
