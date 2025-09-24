@@ -8,6 +8,5 @@ The goal of this repository is to keep track of the exercises I completed during
 
 ## Exam00 Note
 <p align="center">
-  <img src="![Piscine_exam01](https://github.com/user-attachments/assets/45bcd0c8-44d0-40c1-9c20-8cd48f22390e)
-" alt="Notas Exam00" width="600"/>
+  <img src="https://github.com/user-attachments/assets/67350ca0-4733-4b95-acf9-2c3756213df2" alt="Notas Exam01" width="600"/>
 </p>
