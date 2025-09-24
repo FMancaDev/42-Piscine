@@ -7,6 +7,3 @@ Although the exercises in this repository are **not exactly** the same as the on
 The goal of this repository is to keep track of the exercises I completed during the exam and the grades I received. These exercises were based on key topics covered during the **Piscine**, and they provide a solid foundation for more advanced work.
 
 ## Exam00 Note
-<p align="center">
-  <img src="./exam00.png" alt="Exam00 Grade" width="600"/>
-</p>
